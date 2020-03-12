@@ -2,7 +2,7 @@ def my_hash = {"name" => "Alexis", "age" => 26, "location" => "LA"}
 end
 
 
-def shipping_manifest shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
+def shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 end
 
 def retrieval
